@@ -1,0 +1,11 @@
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\bin\Debug\Examen.Negocio.dll
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\bin\Debug\Examen.Negocio.pdb
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\bin\Debug\Examen.Base.dll
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\bin\Debug\Examen.Datos.dll
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\bin\Debug\Examen.Base.pdb
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\bin\Debug\Examen.Datos.pdb
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\obj\Debug\Examen.Negocio.csprojAssemblyReference.cache
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\obj\Debug\Examen.Negocio.csproj.CoreCompileInputs.cache
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\obj\Debug\Examen.Negocio.csproj.CopyComplete
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\obj\Debug\Examen.Negocio.dll
+D:\Canva\Examen\Examen.WebApi\Examen.Negocio\obj\Debug\Examen.Negocio.pdb

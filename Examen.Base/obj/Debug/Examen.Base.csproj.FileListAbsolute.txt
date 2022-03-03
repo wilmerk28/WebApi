@@ -1,0 +1,6 @@
+D:\Canva\Examen\Examen.WebApi\Examen.Base\bin\Debug\Examen.Base.dll
+D:\Canva\Examen\Examen.WebApi\Examen.Base\bin\Debug\Examen.Base.pdb
+D:\Canva\Examen\Examen.WebApi\Examen.Base\obj\Debug\Examen.Base.csprojAssemblyReference.cache
+D:\Canva\Examen\Examen.WebApi\Examen.Base\obj\Debug\Examen.Base.csproj.CoreCompileInputs.cache
+D:\Canva\Examen\Examen.WebApi\Examen.Base\obj\Debug\Examen.Base.dll
+D:\Canva\Examen\Examen.WebApi\Examen.Base\obj\Debug\Examen.Base.pdb
